@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://iabreu.github.io
+title: Ivan Abreu
+tagline: My personal resume
+description: My awesome new site
+paginate: 7
